@@ -2,5 +2,39 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>44840793470-5j2v3d9mo0c8qa6evtf7ogv6158v3g5d.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.44840793470-5j2v3d9mo0c8qa6evtf7ogv6158v3g5d</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDzenbXIK4lAPuEtiOCM5so1mU1L1-Iw6M</string>
+	<key>GCM_SENDER_ID</key>
+	<string>44840793470</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>io.buyafrica.app</string>
+	<key>PROJECT_ID</key>
+	<string>buyafrica-43394</string>
+	<key>STORAGE_BUCKET</key>
+	<string>buyafrica-43394.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:44840793470:ios:ea654a690d1e79f7</string>
+	<key>DATABASE_URL</key>
+	<string>https://buyafrica-43394.firebaseio.com</string>
 </dict>
 </plist>
