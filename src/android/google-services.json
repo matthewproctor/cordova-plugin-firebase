@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "123",
-    "firebase_url": "https://cordova-plugin-firebase.firebaseio.com",
-    "project_id": "cordova-plugin-firebase",
-    "storage_bucket": "cordova-plugin-firebase.appspot.com"
+    "project_number": "44840793470",
+    "firebase_url": "https://buyafrica-43394.firebaseio.com",
+    "project_id": "buyafrica-43394",
+    "storage_bucket": "buyafrica-43394.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:123:android:123",
+        "mobilesdk_app_id": "1:44840793470:android:ea654a690d1e79f7",
         "android_client_info": {
-          "package_name": "com.github.cordova_plugin_firebase"
+          "package_name": "buyafrica.app"
         }
       },
       "oauth_client": [
         {
-          "client_id": "123.apps.googleusercontent.com",
+          "client_id": "44840793470-7o1ldonjem8cbigprbf49fvg6uo3b61j.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "123"
+          "current_key": "AIzaSyD8XTByrQ90c_y7Fofp5aBQ7NU5RMSuBxw"
         }
       ],
       "services": {
